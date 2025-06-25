@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Haaris
 
-<!--
-**Haaris-Safdar/Haaris-Safdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 HND Software Development Graduate  
+💻 Java | C# | HTML | SQL  
+🚀 Building projects to launch my tech career  
+🔍 Interested in full-stack and backend roles  
 
-Here are some ideas to get you started:
+## 📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Catering System** – Stock and order management using Java + MS Access  
+- **Mefisto Theatre Website** – Responsive site for a local theatre  
+- **Adventure Holidays Website** – User-friendly site showcasing holiday packages  
+- **EPOS System** – Simulated electronic point-of-sale system  
+- **ATM System** – ATM operations simulation including withdrawals and deposits
+  
+You’re welcome to explore the projects and feel free to contact me with any questions or opportunities.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haaris-safdar) or via email: [H12377safdar@gmail.com](mailto:H12377safdar@gmail.com)
